@@ -1,4 +1,4 @@
-from rpg_combat.character import character
+from rpg_combat.character import Character
 
 
 class TestCharacter:
