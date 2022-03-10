@@ -1,6 +1,5 @@
 from rpg_combat.character import Character
 
-
 class TestCharacter:
     def setup(self):
         self.knight = Character()
